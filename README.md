@@ -1,6 +1,3 @@
-# Resume-Imporver
-It will improve the resume as per JD
-
 **EDI to CSV Parser**
 
 A lightweight Python tool that parses raw ANSI X12 EDI files (e.g., 837, 834, 835 transaction sets) into a flat, structured CSV format. Built as a learning project to understand EDI segment/element structure using core Python (no external EDI libraries).
